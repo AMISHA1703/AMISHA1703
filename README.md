@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha1703&label=Profile%20views&color=0e75b6&style=flat" alt="amisha1703" /> </p>--->
 
-- 🌱 I’m currently learning **system design...**
+<!--- 🌱 I’m currently exploring-->
 
 - 💬 Ask me about **JavaScript ,React js, Node js ,Express js ,tailwind CSS, MongoDB ,CSS ,HTML , C++**
 
